@@ -179,7 +179,7 @@ button:hover{
 	min-height: 400px;
 }
 .card{
-	height: 400px;
+	height: 450px;
 	width: 340px;
 	padding: 20px 25px;
 	background: #191919;
@@ -204,9 +204,9 @@ h5{
 }
 .pra p{
 	color: #fcfc;
-	font-size: 16px;
-	line-height: 27px;
-	margin-bottom: 25px;
+	font-size: 15px;
+	line-height: 25px;
+	margin-bottom: 20px;
 }
 .card .button{
 	background-color:#f9004d;
